@@ -8,6 +8,7 @@ gem 'rake',  '0.8.7'
 # gem "mysql2", "~> 0.2.7"
 # gem "sqlite3"
 gem "pg", ">= 0.9.0"
+gem "taps", ">= 0.3.23"
 
 gem 'authlogic',           '~> 3.0.3'
 gem 'acts_as_commentable', '>= 3.0.1'
