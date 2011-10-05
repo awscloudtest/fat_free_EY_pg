@@ -16,10 +16,10 @@ gem 'sass',                '>= 3.1.1'
 gem 'paperclip',           '~> 2.3.3'
 gem 'will_paginate',       '>= 3.0.pre2'
 
-group :production do
+# group :production do
 # gem "mysql2", "~> 0.2.7"
 # gem "pg"
-end
+# end
 
 group :development, :test do
   gem 'ruby-debug',   :platform => :mri_18
